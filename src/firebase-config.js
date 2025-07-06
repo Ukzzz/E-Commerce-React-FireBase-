@@ -3,12 +3,12 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDdhZbZqkIw5gKJC6oWAqCHfN5XkFwg_ZM",
-  authDomain: "dummt-18695.firebaseapp.com",
-  projectId: "dummt-18695",
-  storageBucket: "dummt-18695.firebasestorage.app",
-  messagingSenderId: "766319273024",
-  appId: "1:766319273024:web:36768cbcd3e5d51f5ceba5"
+  apiKey: "AIzaSyCSj_6zW87hrvxA9GGEoSOpFT9q0GaMo-w",
+  authDomain: "e-commerce-c6293.firebaseapp.com",
+  projectId: "e-commerce-c6293",
+  storageBucket: "e-commerce-c6293.firebasestorage.app",
+  messagingSenderId: "932760350781",
+  appId: "1:932760350781:web:b2ceb5e8f808ad6835fa54"
 };
 
 const app = initializeApp(firebaseConfig);
